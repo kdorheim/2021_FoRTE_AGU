@@ -1,0 +1,5 @@
+Read me file for the ED-outputs dir 
+
+
+The ED-outputs dir is home to many files that are created via the https://github.com/forTExperiment/forte-disturbance workflow. See there for more details.
+	
